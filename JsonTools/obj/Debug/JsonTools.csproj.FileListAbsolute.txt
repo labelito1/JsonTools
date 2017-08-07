@@ -1,0 +1,6 @@
+c:\users\eduardo\documents\visual studio 2013\Projects\JsonTools\JsonTools\bin\Debug\JsonTools.dll
+c:\users\eduardo\documents\visual studio 2013\Projects\JsonTools\JsonTools\bin\Debug\JsonTools.pdb
+c:\users\eduardo\documents\visual studio 2013\Projects\JsonTools\JsonTools\bin\Debug\Newtonsoft.Json.dll
+c:\users\eduardo\documents\visual studio 2013\Projects\JsonTools\JsonTools\bin\Debug\Newtonsoft.Json.xml
+c:\users\eduardo\documents\visual studio 2013\Projects\JsonTools\JsonTools\obj\Debug\JsonTools.dll
+c:\users\eduardo\documents\visual studio 2013\Projects\JsonTools\JsonTools\obj\Debug\JsonTools.pdb
